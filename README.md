@@ -2,6 +2,8 @@
 
 A simple, templated ring buffer implementation for people who just want to copy a single header file.
 
+This was confirmed to compile with GCC 12.3.0 and Clang 15.0.7.
+
 **NOTE**: As specified below, this is an extremely infantile library that has questionable maintenance as of now.
 **Using this library in critical applications is not recommended. I consider this a toy project until further notice.**
 
